@@ -1,7 +1,7 @@
 🚀
 <h3>Olá, José Tadeu aqui</h3>
 
-- 🤔 Programador PHP
+- 🚀 Programador PHP full stack
 - 🎓 Graduado em **Analise e desenvolvimento de sistema** pela <a href="https://www.unicesumar.edu.br/home/">Unicesumar</a>.
 - 💼 Trabalhando como **Programador PHP** na <a href="https://acessorias.com/site/">Acessórias</a>
 - 🌱 &nbsp; Aprendendo mais sobre **Node.js | React | React Native | Next.js | mongoDB** na <a href="https://www.wmbarros.com.br/">WMBarros Curso Presencial</a>. .
@@ -38,8 +38,6 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira&logoColor=007ACC)
-![FlowChart](https://img.shields.io/badge/-Flowchart-333333?style=flat&logo=flowchart&logoColor=007ACC)
-
 <br/>
 
 <a href="https://github.com/josetadeujunior">
